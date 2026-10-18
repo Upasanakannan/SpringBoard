@@ -1,0 +1,22 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor and IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and Temporary Files
+*.log
+*.tmp
+*.bak
+
+# Environment and Secret Files
+.env
+.env.local
+*.pem
+*.key
